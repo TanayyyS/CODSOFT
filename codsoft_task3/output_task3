@@ -1,0 +1,66 @@
+
+=== Password Atelier ===
+Enter desired password length: 6
+Password length must be at least 8.
+Enter desired password length: 8
+
+Choose complexity level:
+1 - Simple (lowercase letters)
+2 - Moderate (lower + upper)
+3 - Strong (letters + digits)
+4 - Ultimate (letters + digits + safe symbols)
+Enter level (1-4): 4
+
+Your crafted password is ready:
+>> o@N$yap4
+
+May this password serve you safely and wisely.
+
+Would you like to generate another password? (yes/no): yes
+Enter desired password length: 10
+
+Choose complexity level:
+1 - Simple (lowercase letters)
+2 - Moderate (lower + upper)
+3 - Strong (letters + digits)
+4 - Ultimate (letters + digits + safe symbols)
+Enter level (1-4): 3
+
+Your crafted password is ready:
+>> s4Ck1ac579
+
+May this password serve you safely and wisely.
+
+Would you like to generate another password? (yes/no): yes
+Enter desired password length: 12
+
+Choose complexity level:
+1 - Simple (lowercase letters)
+2 - Moderate (lower + upper)
+3 - Strong (letters + digits)
+4 - Ultimate (letters + digits + safe symbols)
+Enter level (1-4): 2
+
+Your crafted password is ready:
+>> yMlALEYYiEHN
+
+May this password serve you safely and wisely.
+
+Would you like to generate another password? (yes/no): yes
+Enter desired password length: 14
+
+Choose complexity level:
+1 - Simple (lowercase letters)
+2 - Moderate (lower + upper)
+3 - Strong (letters + digits)
+4 - Ultimate (letters + digits + safe symbols)
+Enter level (1-4): 1
+
+Your crafted password is ready:
+>> hyngmnicwilgek
+
+May this password serve you safely and wisely.
+
+Would you like to generate another password? (yes/no): no
+
+Exiting Password Atelier! Thank you for using it.
