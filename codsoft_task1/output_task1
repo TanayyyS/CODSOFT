@@ -1,0 +1,123 @@
+┌───────────────────────────┐
+│     PYTHON TO-DO APP      │
+├───────────────────────────┤
+│ 1. Add Task               │
+│ 2. View Tasks             │
+│ 3. Update Task            │
+│ 4. Remove Task            │
+│ 5. Exit                   │
+└───────────────────────────┘
+Choose an option: 1
+Enter task: Sem 3 preparation
+Priority (High/Medium/Low): High
+Deadline (DD-MM-YYYY): 12-12-2025
+
+Task added successfully.
+
+┌───────────────────────────┐
+│     PYTHON TO-DO APP      │
+├───────────────────────────┤
+│ 1. Add Task               │
+│ 2. View Tasks             │
+│ 3. Update Task            │
+│ 4. Remove Task            │
+│ 5. Exit                   │
+└───────────────────────────┘
+Choose an option: 2
+
+==================================================
+                 YOUR TO-DO LIST                  
+==================================================
+
+[1] SIH 2026 Preparation
+ • Priority : Medium
+ • Deadline : 30-09-2026
+ • Created  : 18-11-2025 15:18
+
+[2] Sem 3 preparation
+ • Priority : High
+ • Deadline : 12-12-2025
+ • Created  : 18-11-2025 15:20
+
+==================================================
+
+┌───────────────────────────┐
+│     PYTHON TO-DO APP      │
+├───────────────────────────┤
+│ 1. Add Task               │
+│ 2. View Tasks             │
+│ 3. Update Task            │
+│ 4. Remove Task            │
+│ 5. Exit                   │
+└───────────────────────────┘
+Choose an option: 3
+
+==================================================
+                 YOUR TO-DO LIST                  
+==================================================
+
+[1] SIH 2026 Preparation
+ • Priority : Medium
+ • Deadline : 30-09-2026
+ • Created  : 18-11-2025 15:18
+
+[2] Sem 3 preparation
+ • Priority : High
+ • Deadline : 12-12-2025
+ • Created  : 18-11-2025 15:20
+
+==================================================
+
+Select task number to update: 1
+
+Leave blank to keep existing value.
+New title (SIH 2026 Preparation): 
+New priority (Medium): 
+New deadline (30-09-2026): 15-10-2026
+
+Task updated.
+
+┌───────────────────────────┐
+│     PYTHON TO-DO APP      │
+├───────────────────────────┤
+│ 1. Add Task               │
+│ 2. View Tasks             │
+│ 3. Update Task            │
+│ 4. Remove Task            │
+│ 5. Exit                   │
+└───────────────────────────┘
+Choose an option: 4
+
+==================================================
+                 YOUR TO-DO LIST                  
+==================================================
+
+[1] SIH 2026 Preparation
+ • Priority : Medium
+ • Deadline : 15-10-2026
+ • Created  : 18-11-2025 15:18
+
+[2] Sem 3 preparation
+ • Priority : High
+ • Deadline : 12-12-2025
+ • Created  : 18-11-2025 15:20
+
+==================================================
+
+Enter task number to remove: 1
+
+Removed: SIH 2026 Preparation
+
+┌───────────────────────────┐
+│     PYTHON TO-DO APP      │
+├───────────────────────────┤
+│ 1. Add Task               │
+│ 2. View Tasks             │
+│ 3. Update Task            │
+│ 4. Remove Task            │
+│ 5. Exit                   │
+└───────────────────────────┘
+Choose an option: 5
+
+Exiting app… Goodbye!
+
