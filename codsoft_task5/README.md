@@ -29,7 +29,7 @@ Python and simple structured data handling techniques.
 
 Project Structure:
 
-This folder contains a README file, the contact_book.py script, and an output screenshot showing usage.
+This folder contains a README file, the contact_book.py script, and an output file showing usage.
 
 Input/Output Example:
 
