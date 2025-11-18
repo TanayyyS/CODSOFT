@@ -29,7 +29,7 @@ Python and the datetime module are used to handle user input, validate dates, an
 
 Project Structure:
 
-This folder contains a README, the to_do_list.py script, and a screenshot showing successful execution of the program.
+This folder contains a README, the to_do_list.py script, and an output file showing successful execution of the program.
 
 Input/Output Example:
 
