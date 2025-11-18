@@ -1,64 +1,50 @@
-OVERALL README (ROOT)
+OVERALL PROJECT README
+Project Title:
+
 CodSoft Python Programming Internship – Final Projects
 
-This repository contains all the projects completed during my Python Programming Internship at CodSoft. The internship consisted of five tasks, each designed to build core programming logic, problem-solving skills, and hands-on experience with Python.
+Overview:
 
-Every task is placed in its own folder under Tasks/ with:
+This repository contains all five Python projects completed during my CodSoft Internship. These projects focus on improving core Python skills, handling user input, working with built-in modules, and writing clean, structured code. Each task demonstrates practical problem-solving and real-world implementation.
 
-Python source code
+Tasks Included:
 
-README.md file
+Task 1: To-Do List Application
 
-Screenshot of the output
+Task 2: Basic Calculator
 
-Internship Tasks Overview
-Task 1 – To-Do List Application
+Task 3: Password Generator
 
-A terminal-based task manager for adding, updating, viewing, and deleting tasks with proper deadline validation.
+Task 4: Rock-Paper-Scissors Game
 
-Task 2 – Basic Calculator
+Task 5: Contact Book
 
-Performs arithmetic operations like addition, subtraction, multiplication, and division with error handling.
-
-Task 3 – Password Generator
-
-Generates secure random passwords with letters, digits, and symbols.
-
-Task 4 – Rock-Paper-Scissors Game
-
-A user-vs-computer interactive game with score tracking and clean exit.
-
-Task 5 – Contact Book
-
-Manages contact details including add, update, search, view, and delete options.
-
-Project Structure
+Project Structure:
 
 CodSoft/
-│
-├── Tasks/
-│ ├── Task 1 - To-Do List/
-│ ├── Task 2 - Calculator/
-│ ├── Task 3 - Password Generator/
-│ ├── Task 4 - Rock Paper Scissors/
-│ └── Task 5 - Contact Book/
-│
-└── README.md
 
-Technologies Used
+README.md
 
-Python
+Tasks/
 
-random module
+Task 1 - To-Do List/
 
-string module
+Task 2 - Calculator/
 
-datetime module
+Task 3 - Password Generator/
 
-Author
+Task 4 - Rock Paper Scissors/
+
+Task 5 - Contact Book/
+
+Technologies Used:
+
+Python and built-in libraries including datetime, random, and string. Each project is written using clean procedural logic and follows good coding practices.
+
+Author:
 
 Tanay Shinde
 
-Acknowledgements
+Acknowledgements:
 
-CodSoft Internship
+CodSoft Python Internship for project guidance and hands-on experience.
