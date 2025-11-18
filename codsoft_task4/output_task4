@@ -1,0 +1,88 @@
+
+===== ROUND 1 =====
+Rock • Paper • Scissors
+---------------------------
+Your choice: Paper
+
+Computer is thinking...
+
+You chose     : PAPER
+Computer chose: ROCK
+---------------------------
+Result: YOU WIN 🎉
+
+Scoreboard → You: 1 | Computer: 0
+---------------------------
+
+Play again? (yes/no): yes
+
+===== ROUND 2 =====
+Rock • Paper • Scissors
+---------------------------
+Your choice: Rock
+
+Computer is thinking...
+
+You chose     : ROCK
+Computer chose: SCISSORS
+---------------------------
+Result: YOU WIN 🎉
+
+Scoreboard → You: 2 | Computer: 0
+---------------------------
+
+Play again? (yes/no): yes
+
+===== ROUND 3 =====
+Rock • Paper • Scissors
+---------------------------
+Your choice: Scissors
+
+Computer is thinking...
+
+You chose     : SCISSORS
+Computer chose: PAPER
+---------------------------
+Result: YOU WIN 🎉
+
+Scoreboard → You: 3 | Computer: 0
+---------------------------
+
+Play again? (yes/no): yes
+
+===== ROUND 4 =====
+Rock • Paper • Scissors
+---------------------------
+Your choice: rock
+
+Computer is thinking...
+
+You chose     : ROCK
+Computer chose: ROCK
+---------------------------
+Result: It's a TIE!
+
+Scoreboard → You: 3 | Computer: 0
+---------------------------
+
+Play again? (yes/no): yes
+
+===== ROUND 5 =====
+Rock • Paper • Scissors
+---------------------------
+Your choice: rock
+
+Computer is thinking...
+
+You chose     : ROCK
+Computer chose: ROCK
+---------------------------
+Result: It's a TIE!
+
+Scoreboard → You: 3 | Computer: 0
+---------------------------
+
+Play again? (yes/no): no
+
+Exiting Rock-Paper-Scissors game! Thank you for playing.
+Final Score → You: 3 | Computer: 0
