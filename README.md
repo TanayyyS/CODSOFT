@@ -1,11 +1,11 @@
-OVERALL PROJECT README
+\\Overall Project README
 Project Title:
 
-CodSoft Python Programming Internship – Final Projects
+CodSoft Python Programming Internship – Final Project Compilation
 
 Overview:
 
-This repository contains all five Python projects completed during my CodSoft Internship. These projects focus on improving core Python skills, handling user input, working with built-in modules, and writing clean, structured code. Each task demonstrates practical problem-solving and real-world implementation.
+This repository contains all five Python projects completed during my CodSoft Internship. Each task is designed to strengthen core programming fundamentals, improve problem‑solving, and demonstrate practical applications using Python. The projects include detailed documentation, code files, and output screenshots.
 
 Tasks Included:
 
@@ -21,25 +21,11 @@ Task 5: Contact Book
 
 Project Structure:
 
-CodSoft/
-
-README.md
-
-Tasks/
-
-Task 1 - To-Do List/
-
-Task 2 - Calculator/
-
-Task 3 - Password Generator/
-
-Task 4 - Rock Paper Scissors/
-
-Task 5 - Contact Book/
+The root folder contains the main README file and a Tasks folder. Inside Tasks, each project has its own dedicated directory containing: README.md, Python source code, and an output screenshot.
 
 Technologies Used:
 
-Python and built-in libraries including datetime, random, and string. Each project is written using clean procedural logic and follows good coding practices.
+Python, along with built-in modules such as datetime, random, and string. All programs are written cleanly and follow beginner-friendly programming practices.
 
 Author:
 
@@ -47,4 +33,4 @@ Tanay Shinde
 
 Acknowledgements:
 
-CodSoft Python Internship for project guidance and hands-on experience.
+CodSoft Python Programming Internship
