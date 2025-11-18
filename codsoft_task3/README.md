@@ -27,7 +27,7 @@ Python, along with modules such as random and string for secure character genera
 
 Project Structure:
 
-Includes a README, the password_generator.py script, and a screenshot showing password generation.
+Includes a README, the password_generator.py script, and an output file showing password generation.
 
 Input/Output Example:
 
