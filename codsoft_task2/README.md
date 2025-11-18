@@ -27,7 +27,7 @@ Core Python programming without additional modules.
 
 Project Structure:
 
-This folder contains a README file, the calculator.py script, and an output screenshot showcasing sample operations.
+This folder contains a README file, the calculator.py script, and an output file showcasing sample operations.
 
 Input/Output Example:
 
