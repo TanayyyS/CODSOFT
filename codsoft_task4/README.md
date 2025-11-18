@@ -27,7 +27,7 @@ Python and the random module for generating unpredictable computer choices.
 
 Project Structure:
 
-This folder includes a README, the rock_paper_scissors.py script, and an output screenshot demonstrating game flow.
+This folder includes a README, the rock_paper_scissors.py script, and an output file demonstrating game flow.
 
 Input/Output Example:
 
